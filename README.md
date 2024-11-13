@@ -2,7 +2,7 @@
 
 Ferramenta de Cálculo de Probabilidades para o Jogo de Roleta
 
-Este programa foi criado com o intuito de calcular probabilidades e ajudar na avaliação de estratégias para o famoso jogo de roda. Através de uma interface intuitiva desenvolvida em Tkinter, o usuário pode inserir números recorrentes do jogo e observar a distribuição desses números nas diversas colunas da roleta. O programa documenta as movimentações mais recentes e determina a frequência de ocorrência nas três colunas principais da roleta (1C, 2C, e 3C).
+Este programa foi criado com o intuito de calcular probabilidades e ajudar na avaliação de estratégias para o famoso jogo de Roleta. Através de uma interface intuitiva desenvolvida em Tkinter, o usuário pode inserir números recorrentes do jogo e observar a distribuição desses números nas diversas colunas da roleta. O programa documenta as movimentações mais recentes e determina a frequência de ocorrência nas três colunas principais da roleta (1C, 2C, e 3C).
 
 📑 Principais características:
 
